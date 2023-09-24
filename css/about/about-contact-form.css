@@ -1,0 +1,12 @@
+.about__contact__form {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+.about__contact__form {
+	align-items: flex-start;
+	}
+}
